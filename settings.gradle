@@ -1,0 +1,5 @@
+include ':app'
+include ':faceunity'
+include ':uikit'
+include ':jrmfneteaselib'
+include ':avchatkit'
